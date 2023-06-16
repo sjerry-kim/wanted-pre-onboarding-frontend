@@ -1,69 +1,41 @@
 # 원티드 프리온보딩 프론트엔드 인턴쉽 사전과제
 
-지원자 김진혜
+원티드 프리온보딩 프론트엔드 인턴쉽 지원자 '김진혜' 입니다.
 
-## 프로젝트 실행 방법
+## 실행 방법
 
-### `npm start`
+다음은 프로젝트를 실행하는 방법입니다.
 
+### 요구 사항
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+프로젝트를 실행하기 위해 다음의 요구 사항이 필요합니다:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- `git`을 사용하여 프로젝트를 클론합니다.
+- `npm` 패키지 매니저를 사용하여 필요한 종속성을 설치합니다.
+- 프로젝트를 시작합니다.
 
-### `npm test`
+### 설치
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+프로젝트를 실행하기 전에 다음 명령어를 사용하여 필요한 종속성을 설치해야 합니다:
 
-### `npm run build`
+```bash
+git clone https://github.com/your-repo.git
+cd your-repo
+npm install
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### 실행
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+다음 명령어를 사용하여 프로젝트를 실행합니다:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```bash
+npm start
+```
 
-### `npm run eject`
+프로젝트가 성공적으로 실행되면 브라우저에서 다음 주소로 접속할 수 있습니다:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+```
+http://localhost:3000
+```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 데모 영상
