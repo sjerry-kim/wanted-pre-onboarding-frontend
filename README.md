@@ -40,6 +40,4 @@ http://localhost:3000
 
 ## 데모 영상
 
-<p align="center">
-  <img src="https://github.com/sjerry-kim/wanted-pre-onboarding-frontend/assets/112137364/425590fa-45f4-423e-86c4-bf632e33a591">
-</p>
+![Alt Text](https://github.com/sjerry-kim/wanted-pre-onboarding-frontend/assets/112137364/425590fa-45f4-423e-86c4-bf632e33a591)
