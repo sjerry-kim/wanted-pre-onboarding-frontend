@@ -40,4 +40,4 @@ http://localhost:3000
 
 ## 데모 영상
 
-[![Alt Text]]()(b5XmMriac8I)
+[![Video Label](http://img.youtube.com/vi/b5XmMriac8I/0.jpg)](https://youtu.be/b5XmMriac8I)
