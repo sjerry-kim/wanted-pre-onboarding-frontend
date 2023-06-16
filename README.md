@@ -1,12 +1,11 @@
-# Getting Started with Create React App
+# 원티드 프리온보딩 프론트엔드 인턴쉽 사전과제
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+지원자 김진혜
 
-## Available Scripts
-
-In the project directory, you can run:
+## 프로젝트 실행 방법
 
 ### `npm start`
+
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
